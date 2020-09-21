@@ -1,0 +1,19 @@
+{
+  "name": "projet-c",
+  "version": "1.0.0",
+  "description": "1 / npm install <br>\r 2 / npm run build",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amar1921/Progetto_C.git"
+  },
+  "author": "AMAR SYLL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amar1921/Progetto_C/issues"
+  },
+  "homepage": "https://github.com/Amar1921/Progetto_C#readme"
+}

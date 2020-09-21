@@ -1,0 +1,127 @@
+@import "http://fonts.googleapis.com/css?family=Lato";
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 70px 0px;
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#cedbe9+5,aac5de+21,3a84c3+44,6199c7+50,419ad6+59,4bb8f0+71,3a8bc2+84,26558b+100 */
+    background: rgb(206,219,233); /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  rgba(206,219,233,1) 5%, rgba(170,197,222,1) 21%, rgba(58,132,195,1) 44%, rgba(97,153,199,1) 50%, rgba(65,154,214,1) 59%, rgba(75,184,240,1) 71%, rgba(58,139,194,1) 84%, rgba(38,85,139,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  rgba(206,219,233,1) 5%,rgba(170,197,222,1) 21%,rgba(58,132,195,1) 44%,rgba(97,153,199,1) 50%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  rgba(206,219,233,1) 5%,rgba(170,197,222,1) 21%,rgba(58,132,195,1) 44%,rgba(97,153,199,1) 50%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedbe9', endColorstr='#26558b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+;
+}
+
+.divider {
+    width: 100px;
+    height: 2px;
+    background: lightblue;
+    margin: 0 auto;
+}
+
+.heading {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+}
+
+#contact-form {
+    font-size: 20px;
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+/*---  NEW  ------*/
+.blue {
+    color: #0069d6;
+}
+
+.form-control {
+    height: 50px;
+    font-size: 18px;
+}
+
+#contact-form input[type=submit] {
+    margin: 40px auto 0px;
+    display: block;
+}
+
+.comments {
+    font-style: italic;
+    font-size: 18px;
+    color: #d82c2e;
+    height: 25px
+}
+
+#contact-form .thank-you {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.button1 {
+    border: 1px solid #ddd;
+    background: lightblue;
+    color: #fff;
+    width: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 18px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in 0s;
+}
+
+.button1:hover {
+    background: #333;
+    border-color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
